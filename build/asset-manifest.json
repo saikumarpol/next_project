@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nextwave_assignment/static/css/main.f855e6bc.css",
+    "main.js": "/nextwave_assignment/static/js/main.659f1985.js",
+    "static/js/787.d4aba7ab.chunk.js": "/nextwave_assignment/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/nextwave_assignment/index.html",
+    "main.f855e6bc.css.map": "/nextwave_assignment/static/css/main.f855e6bc.css.map",
+    "main.659f1985.js.map": "/nextwave_assignment/static/js/main.659f1985.js.map",
+    "787.d4aba7ab.chunk.js.map": "/nextwave_assignment/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.659f1985.js"
+  ]
+}
